@@ -4,3 +4,13 @@ body {
     background: black;
     color: blanchedalmond;
 }
+#container{
+    width: 70%;
+    padding: 1cm;
+    text-align: center;
+    border: 1px solid white;
+    margin: 0 auto;
+}
+#container h1 {
+    font-size: 20px;
+}
