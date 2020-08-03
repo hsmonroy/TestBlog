@@ -1,0 +1,4 @@
+some text
+some text using console
+
+primer cambio realizado
